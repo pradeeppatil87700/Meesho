@@ -24,10 +24,10 @@ public class demo {
         driver.get("https://www.meesho.com/");
         
         
-        
+         
 //        private By HoverElement = By.cssSelector("div span[class='sc-eDvSVe kYLKqU']");
 //        private By loginButton = By.id("loginbutton");
-//        private By supplierText = By.xpath("div[class='MuiBox-root css-mqxh8y'] h1");
+//  .       private By supplierText = By.xpath("div[class='MuiBox-root css-mqxh8y'] h1");
 
 
         // Maximize the browser window for better visibility
