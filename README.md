@@ -1,7 +1,7 @@
 # Java Selenium Automation Framework
 
 A robust, scalable , and maintainable Java-based Selenium automation framework designed for web application testing. This project is easily extendable and follows best practices for automation and test management. It utilizes various tools and technologies like TestNG, Cucumber, Jenkins, CI/CD, and GitHub for seamless integration and continuous delivery.
-Made this Project with almost all core fundamental of the automation framework from technical stakeholder to non tech stakeholder
+This project implements the core fundamentals of an automation framework, designed to cater to both technical and non-technical stakeholders.
 
 Meesho e-commerce  website : 
 
