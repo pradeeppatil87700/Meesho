@@ -26,6 +26,5 @@ Meesho e-commerce  website :
 - Parallel Test Execution: Runs tests in parallel to reduce execution time.
 - CI/CD Integration: Fully integrated with Jenkins for continuous integration and deployment.
 - Test Reporting: Customizable reporting via Extent Reports.
-- Logging: Detailed logging of test execution using Log4j.
 
 
